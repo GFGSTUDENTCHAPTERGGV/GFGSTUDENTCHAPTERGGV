@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We're gfgstudentchapterggv</h1>
 
 
-<img src="https://gfguecu.ml/project.png" height="400" width="780">
+<img src="https://gfguecu.ml/project.png" height="600" width="780">
 
 
 <h3 align="center">we wont let the bugs bite you twice</h3>
