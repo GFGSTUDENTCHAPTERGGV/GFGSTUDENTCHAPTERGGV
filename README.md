@@ -1,10 +1,10 @@
   <h1 align="center">Hi 👋, We're gfgstudentchapterggv</h1>
 
 
-  <img src="https://gfguecu.ml/project.png" height="550" width="750">
+   <img src="https://gfguecu.ml/project.png" height="550" width="750">
 
 
-###<h3 align="center">we wont let the bugs bite you twice</h3>
+<h3 align="center">we wont let the bugs bite you twice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfgstudentchapterggv&label=Profile%20views&color=0e75b6&style=flat" alt="gfgstudentchapterggv" /> </p>
 
